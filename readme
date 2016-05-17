@@ -1,0 +1,3 @@
+#opencv face detection
+pip install opencv
+pip install imutils
